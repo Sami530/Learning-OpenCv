@@ -1,1 +1,0 @@
-cv.imshow('Blank',blank) 
